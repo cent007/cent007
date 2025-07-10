@@ -74,4 +74,4 @@ Penetration Testing • Cloud Computing • Cloud Security • Programming (C++,
 
 - Designed and modeled a system to detect abrupt aircraft movements for flight stability, integrating IoT devices and developing C++ logic for accurate sensor readings.
 
-### 🦠 Malware Detection and Ana
+
